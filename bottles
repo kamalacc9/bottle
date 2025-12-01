@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Water Bottle", "capacity": "1L", "color": "Blue", "price": 150 },
+  { "id": 2, "name": "Sports Bottle", "capacity": "750ml", "color": "Red", "price": 220 },
+  { "id": 3, "name": "Steel Bottle", "capacity": "1L", "color": "Silver", "price": 550 },
+  { "id": 4, "name": "Kids Bottle", "capacity": "500ml", "color": "Yellow", "price": 120 },
+  { "id": 5, "name": "Hot & Cold Bottle", "capacity": "1.5L", "color": "Black", "price": 750 },
+  { "id": 6, "name": "Travel Bottle", "capacity": "2L", "color": "Green", "price": 350 },
+  { "id": 7, "name": "Plastic Bottle", "capacity": "1.2L", "color": "Purple", "price": 90 },
+  { "id": 8, "name": "Glass Bottle", "capacity": "1L", "color": "Transparent", "price": 300 },
+  { "id": 9, "name": "Mineral Water Bottle", "capacity": "500ml", "color": "Transparent", "price": 20 },
+  { "id": 10, "name": "Gym Bottle", "capacity": "800ml", "color": "Orange", "price": 260 }
+]
